@@ -9,7 +9,7 @@ material3 = "1.3.0"
 materialIconsExtended = "1.7.2"
 navigationCompose = "2.8.1"
 media3 = "1.4.1"
-ffmpegKit = "6.0-2"
+ffmpegKit = "8.1.7"
 workRuntimeKtx = "2.9.1"
 coroutines = "1.8.1"
 
@@ -30,7 +30,7 @@ androidx-media3-exoplayer = { group = "androidx.media3", name = "media3-exoplaye
 androidx-media3-ui = { group = "androidx.media3", name = "media3-ui", version.ref = "media3" }
 androidx-work-runtime-ktx = { group = "androidx.work", name = "work-runtime-ktx", version.ref = "workRuntimeKtx" }
 kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "coroutines" }
-ffmpeg-kit-full = { group = "com.arthenica", name = "ffmpeg-kit-full", version.ref = "ffmpegKit" }
+ffmpeg-kit-full = { group = "dev.ffmpegkit-maintained", name = "ffmpeg-kit-full", version.ref = "ffmpegKit" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
