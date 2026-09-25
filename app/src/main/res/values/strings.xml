@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Video Shrink</string>
+    <string name="app_tagline">Same-to-Same Lossless Quality Video Compressor</string>
+    <string name="notification_channel_name">Video Compression</string>
+    <string name="notification_channel_desc">Shows ongoing video compression status and progress</string>
+    <string name="compressing_notification_title">Compressing Video</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="share">Share</string>
+    <string name="compress_another">Compress Another Video</string>
+</resources>
